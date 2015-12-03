@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<contact-info>
+   <contact1>
+      <name>Tanmay Patil</name>
+      <company>TutorialsPoint</company>
+      <phone>(011) 123-4567</phone>
+   </contact1>
+   <contact2>
+      <name>Manisha Patil</name>
+      <company>TutorialsPoint</company>
+      <phone>(011) 789-4567</phone>
+   </contact2>
+</contact-info>
+</kml>

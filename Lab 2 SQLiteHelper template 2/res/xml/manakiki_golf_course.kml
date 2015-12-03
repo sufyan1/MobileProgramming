@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+ <name>Manakiki Golf Course</name>
+  <Placemark>
+    <name>Tee - Hole 1</name>
+    <Point>
+      <coordinates>-81.4324182271957,41.5984273639879,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.433182656765,41.5955730479591,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4331665635109,41.5954647298964,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4331531524658,41.5953664411267,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4327722787857,41.5969992188305,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4334589242935,41.595559006739,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4329439401627,41.5956954070334,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 1</name>
+    <Point>
+      <coordinates>-81.4324182271957,41.5984273639879,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 2</name>
+    <Point>
+      <coordinates>-81.4325255155563,41.5953503939664,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.4339175820351,41.5930616268666,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.4340248703957,41.5929753702532,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 2</name>
+    <Point>
+      <coordinates>-81.4341133832932,41.5928951314396,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 2</name>
+    <Point>
+      <coordinates>-81.4332389831543,41.5939763410702,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 2</name>
+    <Point>
+      <coordinates>-81.4335662126541,41.593145877401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 2</name>
+    <Point>
+      <coordinates>-81.4340490102768,41.5931960264765,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 2</name>
+    <Point>
+      <coordinates>-81.4325255155563,41.5953503939664,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 3</name>
+    <Point>
+      <coordinates>-81.4345049858093,41.5934969201107,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4379972219467,41.5909513157043,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4381125569344,41.5908891286826,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 3</name>
+    <Point>
+      <coordinates>-81.4382064342499,41.5908229295291,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Water - Pond - Hole 3</name>
+    <Point>
+      <coordinates>-81.4366400241852,41.5918881258476,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 3</name>
+    <Point>
+      <coordinates>-81.4379972219467,41.5910917377911,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 3</name>
+    <Point>
+      <coordinates>-81.4345049858093,41.5934969201107,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 4</name>
+    <Point>
+      <coordinates>-81.4391666650772,41.5904157029401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.4382949471474,41.5931197998664,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.4382869005203,41.5932321337866,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 4</name>
+    <Point>
+      <coordinates>-81.4382761716843,41.5933284198483,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 4</name>
+    <Point>
+      <coordinates>-81.4385578036308,41.5928750717206,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 4</name>
+    <Point>
+      <coordinates>-81.4385041594505,41.5931017461825,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 4</name>
+    <Point>
+      <coordinates>-81.4380696415901,41.5931719549251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 4</name>
+    <Point>
+      <coordinates>-81.4391666650772,41.5904157029401,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 5</name>
+    <Point>
+      <coordinates>-81.4376538991928,41.593356503256,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.4376029372215,41.5923856126453,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.4376056194305,41.5922813012151,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 5</name>
+    <Point>
+      <coordinates>-81.4376190304756,41.5921910315721,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 5</name>
+    <Point>
+      <coordinates>-81.4374125003815,41.5924678580772,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 5</name>
+    <Point>
+      <coordinates>-81.4374446868896,41.5922893251772,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 5</name>
+    <Point>
+      <coordinates>-81.437501013279,41.5921910315721,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 5</name>
+    <Point>
+      <coordinates>-81.4376538991928,41.593356503256,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 6</name>
+    <Point>
+      <coordinates>-81.4376324415207,41.5917637535492,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.433729827404,41.5947767053651,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.4335769414902,41.594844906375,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 6</name>
+    <Point>
+      <coordinates>-81.4334374666214,41.5949231368564,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 6</name>
+    <Point>
+      <coordinates>-81.4350897073746,41.5937276042805,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car Path - Hole 6</name>
+    <Point>
+      <coordinates>-81.4346417784691,41.594190976078,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 6</name>
+    <Point>
+      <coordinates>-81.4337459206581,41.5945721019032,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 6</name>
+    <Point>
+      <coordinates>-81.433724462986,41.5949612491078,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 6</name>
+    <Point>
+      <coordinates>-81.4334508776665,41.5950113967728,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 6</name>
+    <Point>
+      <coordinates>-81.4376324415207,41.5917637535492,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 7</name>
+    <Point>
+      <coordinates>-81.4334213733673,41.5951618395341,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.4348965883255,41.5955148771702,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.4350199699402,41.5955529890723,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 7</name>
+    <Point>
+      <coordinates>-81.4351460337639,41.5956031362775,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 7</name>
+    <Point>
+      <coordinates>-81.434805393219,41.5953664411267,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 7</name>
+    <Point>
+      <coordinates>-81.4348992705345,41.5956833717249,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 7</name>
+    <Point>
+      <coordinates>-81.4334213733673,41.5951618395341,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 8</name>
+    <Point>
+      <coordinates>-81.4345693588257,41.5963613572728,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.4352935552597,41.5992577597037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.4353203773499,41.5993680771711,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 8</name>
+    <Point>
+      <coordinates>-81.435344517231,41.5994864175174,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 8</name>
+    <Point>
+      <coordinates>-81.4344701170921,41.5978416678303,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 8</name>
+    <Point>
+      <coordinates>-81.4345425367355,41.5980823655247,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 8</name>
+    <Point>
+      <coordinates>-81.435162127018,41.5983992827866,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 8</name>
+    <Point>
+      <coordinates>-81.4349046349525,41.5989408466575,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>End Fairway - Hole 8</name>
+    <Point>
+      <coordinates>-81.4345049858093,41.5975809109817,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 8</name>
+    <Point>
+      <coordinates>-81.4345693588257,41.5963613572728,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 9</name>
+    <Point>
+      <coordinates>-81.4354383945465,41.5999116386658,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4325040578842,41.5987402679759,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4323538541794,41.5987663432398,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 9</name>
+    <Point>
+      <coordinates>-81.4322304725647,41.5987683490289,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill - Hole 9</name>
+    <Point>
+      <coordinates>-81.4334750175476,41.5988485805414,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>To Carry Left Bunker - Hole 9</name>
+    <Point>
+      <coordinates>-81.4340221881866,41.5991975864602,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 9</name>
+    <Point>
+      <coordinates>-81.4326113462448,41.598627943642,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 9</name>
+    <Point>
+      <coordinates>-81.4324960112572,41.598900730971,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 9</name>
+    <Point>
+      <coordinates>-81.4321982860565,41.5987121869108,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 9</name>
+    <Point>
+      <coordinates>-81.4354383945465,41.5999116386658,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 10</name>
+    <Point>
+      <coordinates>-81.4313185214996,41.5979941098077,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.4311119914055,41.594844906375,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.4310932159424,41.5947325752615,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 10</name>
+    <Point>
+      <coordinates>-81.4310905337334,41.5946082084436,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car Path - Hole 10</name>
+    <Point>
+      <coordinates>-81.4312782883644,41.5954928123745,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill - Hole 10</name>
+    <Point>
+      <coordinates>-81.4312568306923,41.5953724588107,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 10</name>
+    <Point>
+      <coordinates>-81.4309135079384,41.5948910423114,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 10</name>
+    <Point>
+      <coordinates>-81.4313372969627,41.5947506284894,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 10</name>
+    <Point>
+      <coordinates>-81.4313185214996,41.5979941098077,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 11</name>
+    <Point>
+      <coordinates>-81.4307337999344,41.5943554622365,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 11</name>
+    <Point>
+      <coordinates>-81.4296126365662,41.5951698631382,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 11</name>
+    <Point>
+      <coordinates>-81.4294946193695,41.5952119870433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 11</name>
+    <Point>
+      <coordinates>-81.4293873310089,41.5952741699005,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 11</name>
+    <Point>
+      <coordinates>-81.4296528697014,41.5949592432004,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 11</name>
+    <Point>
+      <coordinates>-81.4296609163284,41.595043491258,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 11</name>
+    <Point>
+      <coordinates>-81.4299157261848,41.5952521050225,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill - Hole 11</name>
+    <Point>
+      <coordinates>-81.4298218488693,41.5950856152456,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 11</name>
+    <Point>
+      <coordinates>-81.4307337999344,41.5943554622365,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 12</name>
+    <Point>
+      <coordinates>-81.4289903640747,41.5952220165404,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 12</name>
+    <Point>
+      <coordinates>-81.4259487390518,41.5981184701014,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 12</name>
+    <Point>
+      <coordinates>-81.4258736371994,41.5981906791943,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 12</name>
+    <Point>
+      <coordinates>-81.4257904887199,41.5982749230339,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 12</name>
+    <Point>
+      <coordinates>-81.4277270436287,41.5965218261827,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cart Path - Hole 12</name>
+    <Point>
+      <coordinates>-81.4266031980515,41.5975829168076,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Creek - Hole 12</name>
+    <Point>
+      <coordinates>-81.426520049572,41.59763506826,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 12</name>
+    <Point>
+      <coordinates>-81.425803899765,41.5979961156208,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 12</name>
+    <Point>
+      <coordinates>-81.4289903640747,41.5952220165404,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 13</name>
+    <Point>
+      <coordinates>-81.4264154434204,41.5987282332352,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 13</name>
+    <Point>
+      <coordinates>-81.4293417334557,41.6014359933417,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 13</name>
+    <Point>
+      <coordinates>-81.4294248819351,41.6015122101303,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 13</name>
+    <Point>
+      <coordinates>-81.4295026659966,41.6015904325303,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 13</name>
+    <Point>
+      <coordinates>-81.4293685555458,41.6011371424337,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 13</name>
+    <Point>
+      <coordinates>-81.4291110634804,41.6014259648102,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 13</name>
+    <Point>
+      <coordinates>-81.4282715320587,41.5999397192091,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 13</name>
+    <Point>
+      <coordinates>-81.4264154434204,41.5987282332352,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 14</name>
+    <Point>
+      <coordinates>-81.4300364255905,41.6015242443519,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 14</name>
+    <Point>
+      <coordinates>-81.4284700155258,41.5989528813586,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 14</name>
+    <Point>
+      <coordinates>-81.4283680915833,41.5988606152597,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 14</name>
+    <Point>
+      <coordinates>-81.4281588792801,41.5987843953394,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cart Path - Hole 14</name>
+    <Point>
+      <coordinates>-81.4293712377548,41.6004852816246,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill - Hole 14</name>
+    <Point>
+      <coordinates>-81.4286255836487,41.5992978751682,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 14</name>
+    <Point>
+      <coordinates>-81.4286255836487,41.5989729391887,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 14</name>
+    <Point>
+      <coordinates>-81.4282393455505,41.598976950754,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 14</name>
+    <Point>
+      <coordinates>-81.4300364255905,41.6015242443519,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 15</name>
+    <Point>
+      <coordinates>-81.429049372673,41.5989087541103,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 15</name>
+    <Point>
+      <coordinates>-81.4299237728119,41.5977373652173,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 15</name>
+    <Point>
+      <coordinates>-81.4299854636192,41.5976390799084,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 15</name>
+    <Point>
+      <coordinates>-81.4300176501274,41.5975508235852,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 15</name>
+    <Point>
+      <coordinates>-81.429049372673,41.5989087541103,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 16</name>
+    <Point>
+      <coordinates>-81.4296877384186,41.5973121297427,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 16</name>
+    <Point>
+      <coordinates>-81.4271610975266,41.5985196307062,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 16</name>
+    <Point>
+      <coordinates>-81.4270350337029,41.5985376828748,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 16</name>
+    <Point>
+      <coordinates>-81.4269036054611,41.5985597466295,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 16</name>
+    <Point>
+      <coordinates>-81.4296877384186,41.5973121297427,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 17</name>
+    <Point>
+      <coordinates>-81.4267319440842,41.598282946251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 17</name>
+    <Point>
+      <coordinates>-81.4291298389435,41.5960725122297,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 17</name>
+    <Point>
+      <coordinates>-81.4291512966156,41.5959361127322,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 17</name>
+    <Point>
+      <coordinates>-81.4291673898697,41.5958137541141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 17</name>
+    <Point>
+      <coordinates>-81.4289394021034,41.5959180598359,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 17</name>
+    <Point>
+      <coordinates>-81.4267319440842,41.598282946251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 18</name>
+    <Point>
+      <coordinates>-81.4297521114349,41.5957836658939,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Front of Green - Hole 18</name>
+    <Point>
+      <coordinates>-81.4308303594589,41.5980923945758,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Middle of Green - Hole 18</name>
+    <Point>
+      <coordinates>-81.4308840036392,41.5981806501585,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 18</name>
+    <Point>
+      <coordinates>-81.4309456944466,41.5982568707918,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hill - Hole 18</name>
+    <Point>
+      <coordinates>-81.4305889606476,41.5978336445583,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 18</name>
+    <Point>
+      <coordinates>-81.4309671521187,41.598020185373,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 18</name>
+    <Point>
+      <coordinates>-81.4297521114349,41.5957836658939,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

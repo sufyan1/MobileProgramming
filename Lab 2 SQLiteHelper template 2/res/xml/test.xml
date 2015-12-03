@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<gcPlace 	
+	gcName="Manakiki Golf Course" 
+	gcCity="Willoughby Hills" 
+	gcState="Ohio"   >
+</gcPlace> 
+
+  <Placemark>
+    <name>Tee - Hole 1</name>
+    <Point>
+      <coordinates>-81.4324182271957,41.5984273639879,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Front of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.433182656765,41.5955730479591,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Middle of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4331665635109,41.5954647298964,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Back of Green - Hole 1</name>
+    <Point>
+      <coordinates>-81.4331531524658,41.5953664411267,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4327722787857,41.5969992188305,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4334589242935,41.595559006739,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunker - Hole 1</name>
+    <Point>
+      <coordinates>-81.4329439401627,41.5956954070334,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tee - Hole 1</name>
+    <Point>
+      <coordinates>-81.4324182271957,41.5984273639879,0</coordinates>
+    </Point>
+  </Placemark>
+  </Document>
+</kml>
